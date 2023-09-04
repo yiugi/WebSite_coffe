@@ -13,7 +13,7 @@
  # Responsivo
  
  <h1>
-    <img width="965px" src="https://media.giphy.com/media/Bz5R9at3zqigSWM0Px/giphy.gif">
+    <img width="965px" src="img/Gif_Demonstra%C3%A7ao_WebSite_Coffe.mp4" controls title="Title"></video>">
 </h1>
  
 # Indice
