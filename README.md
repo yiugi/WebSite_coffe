@@ -1,19 +1,19 @@
 # 
 
-<h1 align="center"> Coffe Shop </h1>
+<h1 align="center"> WebSite Coffe </h1>
 
 <h1>
-    <img width="965px" src="WebSite.jpg" alt="Foto WebSite-Coffe">
+    <img width="965px" src="/img/WebSite.jpg" alt="Foto WebSite-coffe">
 </h1>
 
 <h3 align="center">
-    <a href="">Acessar a demonstração</a>
+    <a href="https://website-cocacola.netlify.app/">Acessar a demonstração</a>
 <h3 >
 
  # Responsivo
  
  <h1>
-    <img width="965px" src="Gif_Demonstraçao_WebSite_Coffe">
+    <img width="965px" src="https://media.giphy.com/media/Bz5R9at3zqigSWM0Px/giphy.gif">
 </h1>
  
 # Indice
@@ -23,7 +23,7 @@
 
 ## 🔖&nbsp; Sobre
 
-Esse é um Projeto onde faço um web Site com animações e reponsiva, onde utilizo HTML CSS e JavaScript puro, com o intuito de praticar o que venho estudando atualmente.
+Esse é um Projeto onde faço uma Home page com animações e reponsiva, onde utilizo HTML CSS e JavaScript puro, com o intuito de praticar o que venho estudando atualmente.
 
 ---
 
@@ -38,5 +38,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ---
 
 Desenvolvido 💜 por Gustavo Vieira
-
-[def]: alt
