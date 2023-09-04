@@ -7,14 +7,8 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://website-cocacola.netlify.app/">Acessar a demonstração</a>
+    <a href="https://yiugi.github.io/WebSite_coffe/">Acessar a demonstração</a>
 <h3 >
-
- # Responsivo
- 
- <h1>
-    <img width="965px" video src="img/Gif_Demonstraçao_WebSite_Coffe.mp4" controls title="Title"></video>
-</h1>
  
 # Indice
 
@@ -23,7 +17,7 @@
 
 ## 🔖&nbsp; Sobre
 
-Esse é um Projeto onde faço uma Home page com animações e reponsiva, onde utilizo HTML CSS e JavaScript puro, com o intuito de praticar o que venho estudando atualmente.
+Esse é um Projeto onde faço um WebSite com animações e reponsiva, onde utilizo HTML CSS e JavaScript puro, com o intuito de praticar o que venho estudando atualmente.
 
 ---
 
